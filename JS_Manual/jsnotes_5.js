@@ -8,7 +8,7 @@
                 #container > .display 
                 div#container > div.display
             // Relational Selectors - identifies a certain node based on its relationship to the nodes around it
-                firstElemetChild 
+                firstElementChild 
                 //or 
                 lastElementChild
             // DOM Methods
